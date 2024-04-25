@@ -1,7 +1,5 @@
 package edu.praktikum.sprint3;
 
-// https://practicum.yandex.ru/webinar-form/qa-automation-engineer-java/
-// https://learngitbranching.js.org/
 public class Triangle {
 
     private final int side1;
